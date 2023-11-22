@@ -162,7 +162,11 @@ Functionality of Physical Layer:
       Simplex --> Only one can send message should not receive any message
       Duplex --> Both can be send at a time Bidirectional 
       Half-Duplex --> Bi-Directional Both directions can send the message but only one flow
-  Devices: Ethernet Cables,
+  
+  Devices: Ethernet Cables,Wires,Cables etc.. 
+
+Data Link Layer:
+  
 
 
 
