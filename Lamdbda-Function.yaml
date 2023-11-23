@@ -6,3 +6,9 @@ Solving the below problems
 Lambda Function will also give compute 
 It is server less and can execute the application
 it will run automatically with out making the compute services visible to the user
+
+Cost Optimization/Estimation :
+  ServerLess --> Cost Optimization
+  Security --> Very Important in public cloud
+  Compliance --> how secure the appilication .
+  

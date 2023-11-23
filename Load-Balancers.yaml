@@ -1,0 +1,14 @@
+AWS Load Balancers: 3 Types
+  1. Application Load Balancers (Layer 7)
+  2. Network Load Balancer (Layer 4)
+  3. Gateway Load Balancer (Layer 2)
+
+What is a Load Balancer:
+  To solve the downtime and slowness of the application we use to distribute the load based on the incomming traffic
+
+  Basic Mechanism working is Round-Robbin Algorithim
+
+APSTNDP
+ 
+
+  

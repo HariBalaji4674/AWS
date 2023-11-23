@@ -1,0 +1,44 @@
+What is GitOps:
+  GitOps is a Single source of truth to deliver the applications
+  and infrastructure 
+GitOps Principles:
+  Declarative
+  Version and Immutable
+  Pulled Automatically
+  Continuously Reconciled
+Is GitOps is for kubernets Only :
+  NOOOOO
+Advantages of GitOps:
+  Security
+  Versioning
+  Auto Upgrades
+  Auto Healing
+  Continuous Reconciliation
+
+What are some popular GitOps Tools: Architecture
+  ArgoCD
+  FluxCD
+  JenkinsX
+  Spinnaker
+
+ArgoCD Architecture:
+  History Of ArgoCD --> Applatix Created open source project
+
+Git Ops: ArgoCD
+
+ArgoCd Will Maintain the sync between git and Kubernetes
+Architecture Components:
+  Repo Server : Connect to git and get the state
+  Application Controller: Connect to k8s and get the state
+  ArgoCD- UI/CLI : To connect with Api Server 
+  API Server: To Connect with both Repo Server and Application Server
+  Dex Server: OIDC Server / OAuth authentication
+  Redis : For Caching the information related to Server
+
+Installation of ArgoCD:
+  Yaml Manifestes
+  Helm
+  Operators
+
+Demo Part Of ArgoCD:
+  
