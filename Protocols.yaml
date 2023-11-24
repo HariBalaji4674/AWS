@@ -13,12 +13,13 @@ IPv4 : Internet Protocol Version 4
 IPv6 : Internet Protocol Version 6
 SSH : Secure Shell 
 TelNet : Connection 
-HTTP
-HTTPS
-NAT
-Gateway
-TCP/IP Protocol
+HTTP : Hyper Text Transfer Protocol
+HTTPS : Hyper Text Transfer Protocol Secure
+NAT : Network Address Translater
+Gateway : Passer To enter to network
+TCP/IP Protocol : 
 SNMP
+
 🌐 TCP/IP : This is like the main language of the internet. TCP is about putting data into packets and making sure they get delivered properly. IP deals with giving these packets addresses and directions. Together, they help devices chat across different networks.
 
 🔎 DNS : Think of this as the internet's address book. It turns website names we know (like google.com) into numbers (IP addresses) that computers understand, so the right website loads when you type it in.
@@ -48,17 +49,3 @@ SNMP
 🌐 𝗥𝗗𝗣 (𝗥𝗲𝗺𝗼𝘁𝗲 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹): RDP is the magic behind our ability to access computers remotely, making telecommuting possible and highlighting the importance of secure and reliable remote access protocols in our increasingly mobile world.
 
 🎛️ 𝗗𝗛𝗖𝗣 (𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗛𝗼𝘀𝘁 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹): DHCP is like a dynamic city planner, assigning IP addresses to devices on a network, ensuring that each device can communicate efficiently without conflicts.📁 𝗙𝗧𝗣 (𝗙𝗶𝗹𝗲 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹): FTP is the workhorse for moving files across the internet. It operates on two channels, making file sharing a breeze, but also reminds us of the evolution toward more secure methods of transfer like SFTP and FTPS in modern practices.
-
-📩 𝗣𝗢𝗣𝟯 (𝗣𝗼𝘀𝘁 𝗢𝗳𝗳𝗶𝗰𝗲 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹 𝟯): It's like having a virtual post office that handles your emails. POP3 might seem simple as it retrieves and deletes server messages, but it's a reminder of the importance of managing data flow and storage effectively.
-
-🔑 𝗧𝗲𝗹𝗻𝗲𝘁: This veteran protocol allows us to remotely log into another computer over the internet. However, it lacks encryption, making it a lesson in the critical need for secure communication channels in today's cybersecurity landscape.
-
-🔐 𝗦𝗦𝗟/𝗧𝗟𝗦 (𝗦𝗲𝗰𝘂𝗿𝗲 𝗦𝗼𝗰𝗸𝗲𝘁𝘀 𝗟𝗮𝘆𝗲𝗿/𝗧𝗿𝗮𝗻𝘀𝗽𝗼𝗿𝘁 𝗟𝗮𝘆𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆): These protocols are the guardians of data transmission, encrypting information as it travels across the internet, proving indispensable for secure communication.
-
-🔎 𝗔𝗥𝗣 (𝗔𝗱𝗱𝗿𝗲𝘀𝘀 𝗥𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹): ARP is the detective that maps IP addresses to MAC addresses, ensuring that the data packets find their way to the correct device : a foundational aspect of network communication.
-
-🏢 𝗡𝗔𝗧 (𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 𝗧𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗶𝗼𝗻): Acting as a translator, NAT converts private IP addresses within a local network to public IPs for the internet. This not only saves valuable IP space but also adds a layer of security by keeping internal network structures private.
-
-🌐 𝗥𝗗𝗣 (𝗥𝗲𝗺𝗼𝘁𝗲 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹): RDP is the magic behind our ability to access computers remotely, making telecommuting possible and highlighting the importance of secure and reliable remote access protocols in our increasingly mobile world.
-
-🎛️ 𝗗𝗛𝗖𝗣 (𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗛𝗼𝘀𝘁 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹): DHCP is like a dynamic city planner, assigning IP addresses to devices on a network, ensuring that each device can communicate efficiently without conflicts.
