@@ -1,0 +1,25 @@
+
+AWS Config: ( Related To Security )
+    Track Resource Inventory and Compliance
+    Compliance with standard rules and Regulations of AWS Account set by company 
+
+In Organization:
+    Different Rules will set 
+    Tags are important for every resources created in AWS
+    
+Thumb Rule: Monitoring Should be Enable for all ec2 instances.
+Integrate Rule with lambda Function
+
+AWS Config --> Rules --> Lambda Function 
+
+Cloud Watch will have log groups for Lambda Function
+
+
+Lambda Function and Cloud Watch Integration
+Rules in AWS Cloud Config:
+    Aws Managed Rule
+    Create Custom Lambda Rule
+    
+Lambda Functions:
+How to write and what permissions are required
+

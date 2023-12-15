@@ -1,3 +1,25 @@
+Boto 3 Tutorial: Python
+    Integration Python with aws to create a resources
+Note : Pre-requisite is how to create a Resource using UI ( Manually )
+Boto3 is basically a automation
+
+Creating Resources :
+    boto3
+    terraform
+    CFT
+    AWS CLI
+Boto3 & CLI : Create Resources using Scripting
+Terraform & CFT : Templating language for creating Resources.
+
+# Project Section: Boto3
+# Lambda Function: Cloud Cost Optimization, Monitoring,Creating resources etc..
+# How to convert Json to Dictionary
+# 
+
+Lambda Functions:  
+    Cloud Cost Optimisation
+    Trigger wide range of aplications s3,Cloud Watch, Event Driven.
+    Cloud watch and Lambda Function to decrease the cost 
 Lambda Function: 
 Solving the below problems
   Compute 
@@ -13,7 +35,7 @@ Cost Optimization/Estimation :
   Compliance --> how secure the appilication .
   
 Cloud Cost Optimization:
-    If You are not managing the cloud cost doing efficiently
+    If You are not managing the cloud cost doing efficiently then you will end up with high cost 
 
 Lambda Function --> EBS Volume SnapShots --> 
 
@@ -25,11 +47,7 @@ Filterout SnapShots
 What is SnapShots:
   EBS Snapshots are a point-in-time copy of your data, and can be used to enable disaster recovery, migrate data across regions and accounts, and improve backup compliance. You can create and manage your EBS Snapshots through the AWS Management Console, AWS Command Line Interface (CLI), or the AWS SDKs.
 
-# Docker
-# Kubernetes
-# Terraform 
-# Monitoring
-# AWS
-# Ansible
-# CI/CD
 
+
+
+    
